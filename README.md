@@ -1,5 +1,12 @@
 # MNIST-SCANNER
 
+LinkedIn Post :
+---------------
+https://www.linkedin.com/feed/update/urn:li:activity:6663829047774187520/
+
+Code :
+-----------
+
 import cv2, os
 import numpy as np
 from PIL import Image
